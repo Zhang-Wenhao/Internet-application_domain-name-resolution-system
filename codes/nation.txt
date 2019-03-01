@@ -1,0 +1,4 @@
+﻿Nation
+edu.cn IN NS 127.0.0.6
+gov IN NS 127.0.0.7
+教育.中国 IN NS 127.0.0.6

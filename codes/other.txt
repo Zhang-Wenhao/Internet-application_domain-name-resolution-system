@@ -1,0 +1,5 @@
+﻿Other
+mirosoft.com IN NS 127.0.0.5
+ietf.org IN NS 127.0.0.5
+www.microsoft.com IN A 60.221.219.168
+www.ietf.org IN A 127.0.0.9
